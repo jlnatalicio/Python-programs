@@ -1,8 +1,9 @@
-Simples space Invaders clone, made following the tutorial from freeCodeCamp's youtube channel
-(https://www.youtube.com/watch?v=FfWpgLFMI7w)
+# Space Invaders PyClone
 
-Game Icon made by Smashicons from www.flaticon.com 
-Enemy and Player Icons made by Freepik from www.flaticon.com 
-Background Sound made by BloodPixelHero from www.freesound.org 
-Bullet Sounds made by TheDweebMan and kutejnikov from www.freesound.org 
-Game Font made by Geronimo Font Studios from www.dafont.com
+## Really Simple Space Invaders clone, made following the tutorial from freeCodeCamp's youtube channel __(https://www.youtube.com/watch?v=FfWpgLFMI7w)__
+
+Game Icon made by Smashicons from www.flaticon.com <br />
+Enemy and Player Icons made by Freepik from www.flaticon.com <br />
+Background Sound made by BloodPixelHero from www.freesound.org <br />
+Bullet Sounds made by TheDweebMan and kutejnikov from www.freesound.org <br />
+Game Font made by Geronimo Font Studios from www.dafont.com <br />
