@@ -1,6 +1,6 @@
 # Space Invaders PyClone
 
-## Really Simple Space Invaders clone, made following the tutorial from freeCodeCamp's youtube channel __(https://www.youtube.com/watch?v=FfWpgLFMI7w)__
+## Really simple Space Invaders clone, made following the tutorial from freeCodeCamp's youtube channel __(https://www.youtube.com/watch?v=FfWpgLFMI7w)__
 
 Game Icon made by Smashicons from www.flaticon.com <br />
 Enemy and Player Icons made by Freepik from www.flaticon.com <br />
